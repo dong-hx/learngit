@@ -1,2 +1,1 @@
-# -Exercises
-some code of exercise
+learn how to use git
