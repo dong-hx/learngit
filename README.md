@@ -1,1 +1,1 @@
-learn how to use git
+学习怎么去使用Git进行开发
